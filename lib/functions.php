@@ -16,7 +16,7 @@ function getContent(){
 	if(isset($_GET['contact'])){
 		include _DIR_.'/../pages/contact.php';
 	}
-	(isset($_GET['home'])){
+	if(isset($_GET['home'])){
 		include __DIR__.'/../pages/home.php';
 	} 
 

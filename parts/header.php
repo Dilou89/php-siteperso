@@ -6,9 +6,11 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	
+	
 </head>
 <body>
 	<header>
+		<h1>EN tête</h1>
 		<?php include "menu.php" ?>;
-		
+
 	</header>

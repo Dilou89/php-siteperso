@@ -10,7 +10,7 @@
 </head>
 <body>
 	<header>
-		<h1>EN tête</h1>
-		<?php include "menu.php" ?>;
+		
+		<?php include "menu.php"; ?>
 
 	</header>
